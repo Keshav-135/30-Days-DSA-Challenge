@@ -1,4 +1,4 @@
-# Group Anagrams (Day: 5)
+# Group Anagrams 
 ---
 ## Problem
 
