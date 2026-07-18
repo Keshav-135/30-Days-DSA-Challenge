@@ -13,7 +13,7 @@ public class Solution {
             
             set.add(nums[i]);
             
-            // Maintain window size k
+
             if (set.size() > k) {
                 set.remove(nums[i - k]);
             }
