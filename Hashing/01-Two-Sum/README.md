@@ -85,13 +85,31 @@ The HashMap stores at most one entry for each element.
 
 ---
 
-##Pattern
+
+## Pattern
 
 **Hashing**
 
-##Status
+---
 
-**Solved**
+## Difficulty
+
+**Easy**
+
+---
+
+## Status
+
+**Solved** ✅
+
+---
+
+## Language
+
+**Java**
+
+---
+
 ## Java Solution
 
 See `Solution.java`.
