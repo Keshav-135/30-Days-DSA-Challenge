@@ -83,9 +83,9 @@ Each solution is organized to make revision easier and strengthen pattern recogn
 | Hashing | ✅ Completed |
 | Two Pointers | ✅ Completed |
 | Sliding Window | ✅ Completed |
-| Binary Search | 🚀 In Progress |
-| Stack | ⏳ Upcoming |
-| Prefix Sum | ⏳ Upcoming |
+| Binary Search | ✅ Completed |
+| Stack | ✅ Completed |
+| Prefix Sum | 🚀 In Progress |
 
 ---
 
