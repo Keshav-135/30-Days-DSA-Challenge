@@ -71,7 +71,7 @@ Each solution is organized to make revision easier and strengthen pattern recogn
 ├── Sliding-Window
 ├── Binary-Search
 ├── Stack
-└── Prefix-Sum
+└──Linked List
 ```
 
 ---
