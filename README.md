@@ -85,7 +85,7 @@ Each solution is organized to make revision easier and strengthen pattern recogn
 | Sliding Window | ✅ Completed |
 | Binary Search | ✅ Completed |
 | Stack | ✅ Completed |
-| Prefix Sum | 🚀 In Progress |
+| Linked List | 🚀 In Progress |
 
 ---
 
